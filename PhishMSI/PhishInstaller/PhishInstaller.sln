@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PhishInstaller", "PhishInstaller\PhishInstaller.vdproj", "{01F31475-E1D4-4660-9B55-13418C197292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F31475-E1D4-4660-9B55-13418C197292}.Debug|Default.ActiveCfg = Debug
+		{01F31475-E1D4-4660-9B55-13418C197292}.Debug|Default.Build.0 = Debug
+		{01F31475-E1D4-4660-9B55-13418C197292}.Release|Default.ActiveCfg = Release
+		{01F31475-E1D4-4660-9B55-13418C197292}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {174827F8-F021-4750-9AE2-B93108F192E6}
+	EndGlobalSection
+EndGlobal
